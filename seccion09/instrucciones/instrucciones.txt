@@ -1,0 +1,11 @@
+Encender Docker
+Pasos a seguir:
+
+1. Entramos a pgadmin vamos a la base de datos y creamos una nueva llamada "medium" y el owner sera el alumno.
+
+2. Vamos a VS Code, seleccionamos las siguientes carpetas pgadmin/storage/alumno_google.com, esa carpeta esta vacia, entonces pegaremos los 2 archivos que tenemos en la carpeta de seccion9/instruciones
+
+3.En medium ya creado le daremos clic a restore, en Filename seleccionaremos en el formato All Files, despues seleccionamos el que dice ,medium-database-01 y es todo.
+
+PARA EL QUE QUIERA SEGUIR EN TABLEPLUS:
+4. Dar clic al boton de base de datos y abrimos la de medium, la cual creamos antes.
